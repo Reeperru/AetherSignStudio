@@ -1,3 +1,7 @@
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 # AetherSign Studio 🛠️🖨️
 
 **AetherSign Studio** is a parametric Python desktop application built with Tkinter and Pillow to generate multi-color 3D printable Guest Wi-Fi plaques (`.3mf`) and angled desk stands (`.3mf`) optimized for Bambu Lab multi-color printers (AMS / AMS Lite).
